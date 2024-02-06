@@ -1,3 +1,3 @@
 # website
 first git reosetory
-author - Ribhuraj Mandal
+Author - Ribhuraj Mandal
